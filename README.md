@@ -1,1 +1,1 @@
-# fault_detection_using_ML
+# Fault Detection using Machine Learning for 3D printed products
