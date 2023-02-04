@@ -25,3 +25,6 @@ In progress
 # Authors
 * [@sadhanasharma](https://www.linkedin.com/in/sadhana-sharma-/)
 
+# License
+[Apache License 2.0]()
+
