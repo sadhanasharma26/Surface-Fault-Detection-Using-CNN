@@ -20,7 +20,7 @@ Manufacturing companies can profit from using computer vision for fault identifi
 * **IDE Used:** Google Colab
 
 # Flow Chart
-<>
+!(/Users/sadhanasharma/Desktop/Rough-7.jpg)
 
 # Status of project
 ```diff
