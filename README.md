@@ -6,6 +6,7 @@ Manufacturing companies can profit from using computer vision for fault identifi
 # Index
 * Features
 * Tech Stack
+* Flow Chart
 * Authors
 * License
 
@@ -15,7 +16,11 @@ Manufacturing companies can profit from using computer vision for fault identifi
 
 # Tech Stack 
 * **Language Used:** Python
+* **Dataset Used:** Real-time 
 * **IDE Used:** Google Colab
+
+# Flow Chart
+<>
 
 # Status of project
 ```diff
