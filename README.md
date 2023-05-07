@@ -16,16 +16,11 @@ Manufacturing companies can profit from using computer vision for fault identifi
 
 # Tech Stack 
 * **Language Used:** Python
-* **Dataset Used:** Real-time 
+* **Dataset Used:** Self created
 * **IDE Used:** Google Colab
 
 # Flow Chart
 ![img src](https://github.com/sadhanasharma26/Fault-Detection-using-ML/blob/main/Flow%20Chart%20of%20FD.png)
-
-# Status of project
-```diff
-In progress
-```
 
 # Authors
 * [@sadhanasharma](https://www.linkedin.com/in/sadhana-sharma-/)
