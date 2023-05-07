@@ -20,7 +20,7 @@ Manufacturing companies can profit from using computer vision for fault identifi
 * **IDE Used:** Google Colab
 
 # Flow Chart
-![img src](https://github.com/sadhanasharma26/Fault_Detection_using_ML/blob/main/Rough-7.jpeg)
+![img src](https://github.com/sadhanasharma26/Fault-Detection-using-ML/blob/main/Flow%20Chart%20of%20FD.png)
 
 # Status of project
 ```diff
