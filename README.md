@@ -3,6 +3,8 @@ In the process of additive manufacturing, an object is constructed one layer at 
 **Fault detection** is the technique of identifying a flaw in any piece of equipment before it causes a failure. The moment the problem occurred is often recorded by fault detection techniques, such as built-in tests, which then either start automatic recovery or sound alarms for user intervention. Model-based, hardware-based, and history-based fault detection techniques are the three primary groups into which they are commonly divided. An approach known as Model Based Fault Detection (MBFD) uses various mathematical fault models to identify faults throughout the rotor system. MBFD is a technique that falls under condition monitoring and fault diagnosis. <br/>
 Manufacturing companies can profit from using computer vision for fault identification in a variety of ways. The technology aids in the quick discovery of defects and the removal of defective components before they are used in manufacturing. Manufacturers can eliminate manual operations by utilizing computer vision's unrivaled automation capabilities. They are able to avoid production mistakes, damage to their reputation, and income losses.
 
+For more detailed information, [Click Here](https://docs.google.com/presentation/d/124fXHmXGQUCVAnI_Lu2DNJTA12GjNunU/edit?usp=share_link&ouid=101579660040301769971&rtpof=true&sd=true).
+
 # Index
 * Features
 * Tech Stack
