@@ -7,6 +7,7 @@ Manufacturing companies can profit from using computer vision for fault identifi
 * Features
 * Tech Stack
 * Flow Chart
+* Dataset Description
 * Authors
 * License
 
@@ -21,6 +22,19 @@ Manufacturing companies can profit from using computer vision for fault identifi
 
 # Flow Chart
 ![img src](https://github.com/sadhanasharma26/Fault-Detection-using-ML/blob/main/Flow%20Chart%20of%20FD.png)
+## The proposed methodology is divided into 4 categories:
+* Data Collection
+* Annotation and Preprocessing
+* Auto Encoding
+* Fault Detection and Identification
+
+# Dataset Description
+* As the project focuses on surface fault detection in 3D printed products, the dataset consists of 3D models of printed objects with known surface           defects.
+* The dataset is likely to include various types of surface faults, such as:
+  * bumps
+  * mesh like formation
+  * rough surfaces 
+  * cracks
 
 # Authors
 * [@sadhanasharma](https://www.linkedin.com/in/sadhana-sharma-/)
